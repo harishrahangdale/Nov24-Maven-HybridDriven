@@ -1,0 +1,4 @@
+testscripts/LibraryTest.class
+testscripts/CreateQuestionTest.class
+testscripts/LoginTest.class
+testscripts/DashboardTest.class
