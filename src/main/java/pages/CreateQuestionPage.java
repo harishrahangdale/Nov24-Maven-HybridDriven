@@ -34,7 +34,7 @@ public class CreateQuestionPage extends ControlActions {
 
 	@FindBy(xpath = "//input[@id='topics']")
 	WebElement topicsInputElement;
-
+	
 	@FindBy(xpath = "//div[text()='Question published successfully']")
 	WebElement toastMessageElement;
 

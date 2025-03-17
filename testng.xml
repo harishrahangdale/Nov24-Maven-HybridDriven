@@ -3,6 +3,8 @@
 <suite name="Suite">
 	<test thread-count="5" name="Test">
 		<classes>
+			<class name="testscripts.CreateAssessmentTest" />
+			<class name="testscripts.CreateQuestionTest" />
 			<class name="testscripts.DashboardTest" />
 			<class name="testscripts.LoginTest" />
 		</classes>
